@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Drashti Vaishnav
-- 👀 I’m interested in node.js,python.
+- 👀 I’m interested in node.js,python,php
 - 🌱 I’m currently learning node.js
 - 💞️ I would also like to learn java spring boot
 - 📫 You can reach me through email : charmi.mv@gmail.com
